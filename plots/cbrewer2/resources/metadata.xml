@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>84db6443-66de-4dd2-9f58-66511401c761</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>cbrewer2</name>
+  <author>Scott Lowe</author>
+  <version>1.0.0.1</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/84db6443-66de-4dd2-9f58-66511401c761/daeea037-56fb-2664-0b2c-12493f0b08d5/packages/zip?src=addons_ml_desktop_install&amp;profile_id=23146822&amp;license=40999731&amp;release_family=R2021a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/84db6443-66de-4dd2-9f58-66511401c761/1.0.0.1/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/submissions/58350/versions/2/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/84db6443-66de-4dd2-9f58-66511401c761/daeea037-56fb-2664-0b2c-12493f0b08d5/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
